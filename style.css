@@ -1,0 +1,10 @@
+body
+{
+    background-color:purple;
+}
+.container
+{
+    position:absolute;
+    text-align:center;
+    color:red;
+}
